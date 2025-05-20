@@ -1,5 +1,5 @@
 
-Evil-Eye Port Scanner
+## EVIL-EYE Port Scanner
 
 Evil-Eye Port Scanner is a simple, fast, and multi-threaded tool designed to scan open ports on a target IP address within a specified port range. This tool is built using Python and Tkinter for a GUI interface, making it easy for both beginners and experts in cybersecurity to use.
 
